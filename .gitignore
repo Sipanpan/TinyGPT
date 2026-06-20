@@ -2,10 +2,3 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
-# PyTorch Model Weights
-*.pt
-
-# SentencePiece Tokenizer Models and Vocabs
-*.model
-*.vocab
